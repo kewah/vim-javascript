@@ -25,25 +25,25 @@ And install it:
 The following variables control certain syntax highlighting features. You can
 add them to your `.vimrc` to enable/disable their features.
 
-#### javascript_enable_domhtmlcss
+#### javascript\_enable\_domhtmlcss
 
 Enables HTML/CSS syntax highlighting in your JavaScript file.
 
 Default Value: 0
 
-#### b:javascript_fold
+#### b:javascript\_fold
 
 Enables JavaScript code folding.
 
 Default Value: 1
 
-#### g:javascript_conceal
+#### g:javascript\_conceal
 
 Enables concealing characters. For example, `function` is replaced with `ƒ`
 
 Default Value: 0
 
-#### javascript_ignore_javaScriptdoc
+#### javascript\_ignore\_javaScriptdoc
 
 Disables JSDoc syntax highlighting
 
@@ -51,13 +51,13 @@ Default Value: 0
 
 ## Contributing
 
-This project uses the [git 
-flow](http://nvie.com/posts/a-successful-git-branching-model/) model for 
-development. There's [a handy git module for git 
-flow](//github.com/nvie/gitflow). If you'd like to be added as a contributor, 
-the price of admission is 1 pull request. Please follow the general code style 
-guides (read the code) and in your pull request explain the reason for the 
-proposed change and how it is valuable. 
+This project uses the [git
+flow](http://nvie.com/posts/a-successful-git-branching-model/) model for
+development. There's [a handy git module for git
+flow](//github.com/nvie/gitflow). If you'd like to be added as a contributor,
+the price of admission is 1 pull request. Please follow the general code style
+guides (read the code) and in your pull request explain the reason for the
+proposed change and how it is valuable.
 
 ## Bug report
 
