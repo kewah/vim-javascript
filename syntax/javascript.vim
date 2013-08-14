@@ -228,11 +228,11 @@ if version >= 508 || !exists("did_javascript_syn_inits")
   HiLink jsDocComment           Comment
   HiLink jsCommentTodo          Todo
   HiLink jsCvsTag               Function
-  HiLink jsDocTags              Special
-  HiLink jsDocSeeTag            Function
-  HiLink jsDocType              Type
-  HiLink jsDocTypeNoParam       Type
-  HiLink jsDocParam             Label
+  HiLink jsDocTags              Comment
+  HiLink jsDocSeeTag            Comment
+  HiLink jsDocType              Comment
+  HiLink jsDocTypeNoParam       Comment
+  HiLink jsDocParam             Comment
   HiLink jsStringS              String
   HiLink jsStringD              String
   HiLink jsTernaryIfOperator    Conditional
